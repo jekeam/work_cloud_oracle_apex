@@ -13,4 +13,4 @@ from dual
 connect by level < round(dbms_random.value(30,50))
 ```
 
-![img](/screenshot.png)
+![Preview](/screenshot.png)
