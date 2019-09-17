@@ -19,9 +19,9 @@
     "url" : "https://github.com/Jekeam/work_cloud_oracle_apex"
   },
  "oracle" : {
-    "versions" : [""],
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.1.0.2", "11.2.0.4"],
     "apex" : {
-      "versions" : ["11.2.0.1", "12.1.0.1", "12.1.0.2", "11.2.0.4"],
+      "versions" : ["19.2.0.00.10"]
       "plugin" : {
         "internalName" : "JQCLOUD",
         "type" : "Region",
