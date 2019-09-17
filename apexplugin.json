@@ -21,7 +21,7 @@
  "oracle" : {
     "versions" : [""],
     "apex" : {
-      "versions" : ["1.0.0"],
+      "versions" : ["19.2.0"],
       "plugin" : {
         "internalName" : "JQCLOUD",
         "type" : "Region",
