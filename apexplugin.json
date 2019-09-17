@@ -19,7 +19,7 @@
     "url" : "https://github.com/Jekeam/work_cloud_oracle_apex"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "versions" : ["12.1.0.2"],
     "apex" : {
       "versions" : ["19.2.0.00.10"],
       "plugin" : {
