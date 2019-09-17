@@ -1,0 +1,33 @@
+{
+  "name" : "work_cloud_oracle_apex",
+  "version" : "1.0",
+  "description" : "Simple word cloud plugin for Oracle APEX",
+  "keywords" : ["word", "cloud", "oracle", "apex"],
+  "homepage" : "https://github.com/Jekeam/work_cloud_oracle_apex",
+  "bugs" : {
+    "url" : "https://github.com/Jekeam/work_cloud_oracle_apex/issues",
+    "email" : "suinegne@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Savinykh Aleksandr",
+    "email" : "suinegne@gmail.com",
+    "url" : "http://t.me/sun4eese"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Jekeam/work_cloud_oracle_apex"
+  },
+ "oracle" : {
+    "versions" : [""],
+    "apex" : {
+      "versions" : ["1.0.0"],
+      "plugin" : {
+        "internalName" : "JQCLOUD",
+        "type" : "Region",
+        "demo" : "https://tryapexnow.com/ords/f?p=1089:1",
+        "previewImage" : "https://github.com/Jekeam/work_cloud_oracle_apex/blob/master/screenshot.png"
+      }
+    }
+  }
+}
