@@ -33,7 +33,7 @@
       ],
       "plugin" : {
         "internalName" : "JQCLOUD",
-        "type" : "Region",
+        "type" : "region",
         "demo" : "https://tryapexnow.com/ords/f?p=1089:1",
         "previewImage" : "https://github.com/Jekeam/work_cloud_oracle_apex/blob/master/screenshot.png"
       }
